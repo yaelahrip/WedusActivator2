@@ -1,0 +1,7 @@
+D:\CodingHub\WedusActivator\WedusActivator\obj\Release\WedusActivator.csprojAssemblyReference.cache
+D:\CodingHub\WedusActivator\WedusActivator\obj\Release\WedusActivator.csproj.CoreCompileInputs.cache
+D:\CodingHub\WedusActivator\WedusActivator\bin\Release\WedusActivator.exe.config
+D:\CodingHub\WedusActivator\WedusActivator\bin\Release\WedusActivator.exe
+D:\CodingHub\WedusActivator\WedusActivator\bin\Release\WedusActivator.pdb
+D:\CodingHub\WedusActivator\WedusActivator\obj\Release\WedusActivator.exe
+D:\CodingHub\WedusActivator\WedusActivator\obj\Release\WedusActivator.pdb
